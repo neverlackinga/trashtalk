@@ -9,8 +9,10 @@ local garbage = {
     "Pwned by NeverLockin !";
     "owned by NeverLockin !";
     "Ratioed";
-
-
+    "He was caught talking on never lockin";
+    "nice skill issue";
+    "horrible";
+    "Newgen removed.";
 }
 
 
