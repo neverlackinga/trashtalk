@@ -3,13 +3,13 @@ repeat wait() until plr.Character
 local char = plr.Character
 
 local garbage = {
-    "Neverlockin > you";
+    "larp";
     "nice lil peep cosplay bro";
     "newgen down.";
-    "Pwned by NeverLockin !";
-    "owned by NeverLockin !";
-    "Ratioed";
-    "He was caught talking on never lockin";
+    "skid";
+    "who.ru";
+    "no name";
+    "brain issue";
     "nice skill issue";
     "horrible";
     "Newgen removed.";
